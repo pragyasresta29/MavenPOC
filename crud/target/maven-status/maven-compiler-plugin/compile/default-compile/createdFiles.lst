@@ -1,0 +1,5 @@
+com/test/crud/service/EmployeeService.class
+com/test/crud/model/Employee.class
+com/test/crud/service/EmployeeServiceImpl.class
+com/test/crud/rs/EmployeeRs.class
+com/test/crud/JaxRsActivator.class
